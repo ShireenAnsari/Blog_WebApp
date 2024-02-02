@@ -1,0 +1,32 @@
+export const category=[
+    {
+    id:'art',
+    value:'art',
+    title:'Arts'
+},
+{
+id:'science',
+value:'science',
+title:'Science'
+},
+{
+id:'technology',
+value:'technology',
+title:'Technology'
+},
+{
+id:'design',
+value:'design',
+title:'Design'
+},
+{
+    id:'cinema',
+    value:'cinema',
+    title:'Cinema'
+    },
+{
+    id:'food',
+    value:'food',
+    title:'Food'
+    }
+] 
